@@ -71,6 +71,13 @@ module.exports = {
 - "webpack": "^5.64.4",
 
 
+## FAQ
+
+- Q: why is an `_` underscore in front of displayname? like `_Comp123`?
+
+  A: add `not android 4.4.3-4.4.4` to your `browserslist`
+
+
 ## Related
 
 - [babel-plugin-add-react-displayname](https://github.com/opbeat/babel-plugin-add-react-displayname) (for `normal` React Comp)
