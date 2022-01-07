@@ -7,4 +7,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* init ([0635ca9](https://github.com/SolidZORO/babel-plugin-react-mobx-observer-displayname/commit/0635ca9f3f75e3092566786ea9d29b38dc9e81fa))
+* init ([0635ca9](https://github.com/SolidZORO/babel-plugin-add-react-mobx-observer-displayname/commit/0635ca9f3f75e3092566786ea9d29b38dc9e81fa))

@@ -6,13 +6,13 @@
   "author": "Jason Feng <solidzoro@live.com>",
   "description": "",
   "license": "MIT",
-  "homepage": "https://github.com/SolidZORO/babel-plugin-react-mobx-observer-displayname",
+  "homepage": "https://github.com/SolidZORO/babel-plugin-add-react-mobx-observer-displayname",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SolidZORO/babel-plugin-react-mobx-observer-displayname.git"
+    "url": "https://github.com/SolidZORO/babel-plugin-add-react-mobx-observer-displayname.git"
   },
   "bugs": {
-    "url": "https://github.com/SolidZORO/babel-plugin-react-mobx-observer-displayname/issues"
+    "url": "https://github.com/SolidZORO/babel-plugin-add-react-mobx-observer-displayname/issues"
   },
   "publishConfig": {
     "access": "public",
