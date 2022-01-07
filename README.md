@@ -63,6 +63,14 @@ module.exports = {
 }
 ```
 
+## Compatible
+
+- "@babel/core": "^7.16.0",
+- "mobx": "^6.3.12",
+- "mobx-react": "^7.2.1",
+- "webpack": "^5.64.4",
+
+
 ## Related
 
 - [babel-plugin-add-react-displayname](https://github.com/opbeat/babel-plugin-add-react-displayname) (for `normal` React Comp)
