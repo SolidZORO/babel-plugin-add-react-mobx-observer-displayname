@@ -15,7 +15,7 @@ module.exports = (babel) => {
   const t = babel.types;
 
   return {
-    name: 'babel-plugin-react-mobx-observer-displayname',
+    name: 'babel-plugin-add-react-mobx-observer-displayname',
     visitor: {
       CallExpression(path) {
         // find mobx observer Node
